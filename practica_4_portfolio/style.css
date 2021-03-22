@@ -1,0 +1,28 @@
+body{
+    background-color: lightslategrey;
+}
+  
+.imagen{
+    padding: 30px;
+    border-radius: 20%;
+}
+
+
+
+.bajo{
+    padding-top: 4%;
+    padding-left: 27%;
+    background-color:lightslategrey; 
+    color: black;}
+    
+.fab{color: black;}  
+        
+.segundo{background-color:rgb(255, 136, 0);}
+            
+.tercero{background-color:rgb(255, 136, 0);}
+            
+#copyright{
+    color: black;
+    text-align: center;
+    background-color: lightslategrey;}
+            
