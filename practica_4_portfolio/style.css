@@ -1,5 +1,5 @@
 body{
-    background-color: lightslategrey;
+    background-color: lightslategray;
 }
   
 .imagen{
@@ -10,19 +10,34 @@ body{
 
 
 .bajo{
-    padding-top: 4%;
-    padding-left: 27%;
-    background-color:lightslategrey; 
+    margin-top: 100px;
+    margin-bottom: 50px;
     color: black;}
     
 .fab{color: black;}  
         
-.segundo{background-color:rgb(255, 136, 0);}
+#segundo{background-color:white;}
+
             
-.tercero{background-color:rgb(255, 136, 0);}
+.tercero{
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
             
 #copyright{
     color: black;
     text-align: center;
     background-color: lightslategrey;}
-            
+
+.icono{
+    margin-right: 30px;
+}
+
+.titulo{
+    color:whitesmoke;
+}
+
+.desarrollador{
+    width: 30%;
+    border-radius: 50%;
+}
